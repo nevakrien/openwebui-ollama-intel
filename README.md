@@ -1,6 +1,8 @@
 # openwebui-ollama-intel
 a way to install and run open webui on intel GPUs
 
+#install the new version of oneapi 2025
+
 #installing ollama properly
 
 1. install Ollama from https://ollama.com/download

@@ -1,5 +1,5 @@
 :: Activate webui_env
-call build\webui_env\Scripts\activate.bat
+call build\webui_env\Scripts\activate
 
 :: Run open-webui server
-call python -m open_webui serve
+python open_webui serve
